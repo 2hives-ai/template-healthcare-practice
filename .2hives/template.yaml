@@ -1,0 +1,14 @@
+slug: healthcare-practice
+name: Healthcare practice
+description: "GP / specialist / allied health practice — intake, scheduling, records (operational only), billing, privacy, ops."
+category: healthcare
+recommended_agents:
+  - patient-intake
+  - scheduling
+  - clinical-records
+  - billing-claims
+  - privacy-compliance
+  - practice-operations
+icon: stethoscope
+order: 90
+warning: "Operational records only — clinical PHI stays in your clinical system."
