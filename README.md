@@ -1,6 +1,6 @@
 # Healthcare practice
 
-A starter project for a GP clinic, specialist practice, allied-health practice, or dental clinic. Six lanes covering intake, scheduling, clinical records, billing, privacy, ops.
+A starter Hive for a GP clinic, specialist practice, allied-health practice, or dental clinic. Six lanes covering intake, scheduling, clinical records, billing, privacy, ops.
 
 **This template is for OPERATIONAL records. Clinical records remain in your clinical system (Best Practice / Medical Director / equivalent). NEVER put identified patient health information in this repo.**
 
